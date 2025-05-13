@@ -3,7 +3,6 @@
 - 🔭 Atualmente estudando o ensino médio e fazendo curso técnico de informática para a web *(Meta de ser fullstack)*
 
 ## --- Minhas estatísticas
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pudimlixo&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pudimlixo&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pudimlixo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</div>
 
