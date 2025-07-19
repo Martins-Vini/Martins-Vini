@@ -1,6 +1,6 @@
 ### --- Bem-vindos ao meu perfil! Eu sou Vinícius Martins de Paiva
 
-- 🔭 Atualmente estudando o ensino médio e fazendo curso técnico de informática para a web *(Meta de ser fullstack)*
+- 🔭 Atualmente cursando informática para a web e faço freelance *(Contatos no perfil)*
 
 ## --- Minhas estatísticas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pudimlixo&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
