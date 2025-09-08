@@ -3,8 +3,8 @@
 - 🔭 Atualmente cursando informática para a web e faço freelance *(Contatos no perfil)*
 
 ## --- Minhas estatísticas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pudimlixo&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pudimlixo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-Vini&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martins-Vini&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</div>
 
 ## 🛠️ Tecnologias que eu utilizo:
 
