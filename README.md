@@ -1,6 +1,7 @@
 ### --- Bem-vindos ao meu perfil! Eu sou Vinícius Martins de Paiva
 
-- 🔭 Atualmente cursando informática para a web e faço freelance *(Contatos no perfil)*
+- 🔭 Atualmente cursando informática para a web na *ETEC - Cidade Tiradentes*
+- Faço freelance *(Contatos no perfil)*
 
 ## --- Minhas estatísticas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-Vini&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
