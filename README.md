@@ -1,4 +1,4 @@
-### --- Bem-vindos ao meu perfil! Eu sou Vinícius Martins de Paiva
+# --- Olá! Eu sou Vinícius Martins 👋
 
 - 🔭 Atualmente cursando informática para a web na *ETEC - Cidade Tiradentes*
 - Faço freelance *(Contatos no perfil)*
