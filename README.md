@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-Vini&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martins-Vini&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</div>
 
-## 🛠️ Tecnologias que eu utilizo:
+## 🖥️ Tecnologias que eu utilizo
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,5 +16,10 @@
 ![EJS](https://img.shields.io/badge/EJS-A91E50?style=for-the-badge&logo=EJS&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 🛠️ Ferramentas que eu utilizo
+
+**![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)**
+**![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)**
+**![Figma](https://img.shields.io/badge/Figma-8c3b65?style=for-the-badge&logo=figma&logoColor=white)**
+**![Canva](https://img.shields.io/badge/Canva-32a8a4?style=for-the-badge&logo=canva&logoColor=white)**
