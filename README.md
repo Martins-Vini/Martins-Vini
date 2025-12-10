@@ -4,7 +4,6 @@
 - Faço freelance *(Contatos no perfil)*
 
 ## --- Minhas estatísticas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-Vini&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=Martins-Vini&show_icons=true&theme=nord&border_radius=2)</div>
 
 ## 🖥️ Tecnologias que eu utilizo
