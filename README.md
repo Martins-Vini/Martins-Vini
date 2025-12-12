@@ -4,7 +4,7 @@
 - Faço freelance *(Contatos no perfil)*
 
 ## --- Minhas estatísticas
-[![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=Martins-Vini&show_icons=true&theme=nord&border_radius=2)</div>
+![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=Martins-Vini&show_icons=true&theme=nord&border_radius=2)</div>
 
 ## 🖥️ Tecnologias que eu utilizo
 
