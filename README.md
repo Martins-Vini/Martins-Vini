@@ -15,6 +15,8 @@
 ![EJS](https://img.shields.io/badge/EJS-A91E50?style=for-the-badge&logo=EJS&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-100000?style=for-the-badge&logo=react&logoColor=default)
+![Python](https://img.shields.io/badge/Python-1b3d5c?style=for-the-badge&logo=python&logoColor=default)
 
 ## 🛠️ Ferramentas que eu utilizo
 
