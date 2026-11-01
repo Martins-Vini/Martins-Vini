@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Vinícius+Martins!+👋;Desenvolvedor+Full-Stack+Web;Estudante+de+Informática+para+Web" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Vinícius+Martins!+👋;Desenvolvedor+Back-End;Estudante+de+Informática+para+Web" alt="Typing SVG" />
   </a>
 </div>
 
@@ -9,7 +9,7 @@
 ### 👨‍💻 Sobre mim
 Transformando ideias em aplicações reais. Sou um desenvolvedor com foco no ecossistema moderno da web, atualmente cursando **Informática para a Web na ETEC - Cidade Tiradentes**. Gosto de arquitetar soluções completas, desde a modelagem do banco de dados com arquitetura de três níveis, criação das regras de negócios e criação da API web em Node.js até interfaces dinâmicas e responsivas. 
 
-- 🚀 Desenvolvendo projetos **Full-Stack** (com foco em e-commerces e sistemas de gestão).
+- 🚀 Desenvolvendo projetos **Back-end** (com foco em e-commerces e sistemas de gestão).
 - 💡 Explorando metodologias de gestão ágil e design de UI/UX.
 - 🎯 Aberto para oportunidades de estágio, vagas Júnior ou projetos freelance desafiadores.
 - ⚡ **Curiosidade:** Gosto de criar scripts em Python para automatizar tarefas do dia a dia!
@@ -21,7 +21,6 @@ Transformando ideias em aplicações reais. Sou um desenvolvedor com foco no eco
 <div align="center">
   <h4>Front-end</h4>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
